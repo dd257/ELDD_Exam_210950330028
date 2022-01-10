@@ -1,0 +1,1 @@
+cmd_/home/rahul/ELDD_Exam_210950330028/main.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/rahul/ELDD_Exam_210950330028/main.ko /home/rahul/ELDD_Exam_210950330028/main.o /home/rahul/ELDD_Exam_210950330028/main.mod.o;  true
